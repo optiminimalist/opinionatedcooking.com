@@ -2,6 +2,7 @@
 layout: post
 title:  "Erdäpfelschmarrn (Austrian fried potatoes)"
 date:   2017-11-18
+published: false
 ---
 
 ![Black Lentil Dal](/assets/IMG_6302.jpg)

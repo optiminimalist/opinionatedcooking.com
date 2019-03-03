@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "Gulasch"
+date:   2019-03-02
+published: true
+---
+
+<!-- ![Gulasch](/assets/gulasch/gulasch.jpg) -->
+
+
+## Ingredients
+
+![Ingredients](/assets/gulasch/gulasch_ingredients.jpg)
+
+* 2 lbs beef chuck, cut into 1" chunks
+* 1.5 lbs onions, chopped
+* 2 tbsp clarified butter
+* 2 tbsp tomato paste
+* 2 cloves garlic, minced
+* 1 tsp caraway seeds
+* 3 tbsp hungarian paprika
+* 2 bay leaves
+* 4 cups broth
+* pinch of marjoram
+* salt & pepper
+
+## Preparation
+{% include step.html image="/assets/gulasch/1.jpg" text="
+Heat clarified butter over medium heat in heavy saucepan (I use cast-iron). Add onions and saute until gold.
+" %}
+
+{% include step.html image="/assets/gulasch/2.jpg" text="
+Add tomato paste, stir well, and turn off heat.
+" %}
+
+{% include step.html image="/assets/gulasch/3.jpg" text="
+Add paprika and stir well for around 2 minutes off the heat.
+" %}
+
+{% include step.html image="/assets/gulasch/4.jpg" text="
+Add the stock, bring to a boil, and simmer for ~30 minutes.
+" %}
+
+{% include step.html image="/assets/gulasch/5.jpg" text="
+Add garlic, caraway seeds, bay leaves, marjoram, and continue simmering.
+" %}
+
+{% include step.html image="/assets/gulasch/6.jpg" text="
+In the meantime, cut the beef chuck into chunks, salt and pepper, and add it to the saucepan
+" %}
+
+{% include step.html image="/assets/gulasch/7.jpg" text="
+Simmer for at least 2 hours, until the Gulasch has noticeably thickened and the meat is fork-tender. Enjoy!
+" %}
